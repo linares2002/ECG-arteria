@@ -1,0 +1,25 @@
+{
+  "infrastructure_version": "1.0",
+  "last_updated": "2026-05-28T15:56:48Z",
+  "servers": [
+    {
+      "server_id": "cld-edurag-prod-01",
+      "hostname": "edurag.net",
+      "status": "active",
+      "provider": "Clouding.io",
+      "location": {
+        "continent": "Europe",
+        "country": "Spain",
+        "datacenter": "Bitnap",
+        "coordinates": {
+          "latitude": 41.3536,
+          "longitude": 2.1201
+        }
+      },
+      "specs": {
+        "environment": "production",
+        "ip_address": "hidden"
+      }
+    }
+  ]
+}
