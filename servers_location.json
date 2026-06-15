@@ -4,7 +4,7 @@
   "servers": [
     {
       "server_id": "cld-edurag-prod-01",
-      "hostname": "https://edurag.net/",
+      "hostname": "https://api.edurag.net/",
       "status": "active",
       "provider": "Clouding.io",
       "location": {
