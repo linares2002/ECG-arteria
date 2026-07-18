@@ -1,0 +1,25 @@
+{
+  "infrastructure_version": "1.0",
+  "last_updated": "2026-07-18T00:00:00Z",
+  "servers": [
+    {
+      "server_id": "serbot-ecg-prod-01",
+      "hostname": "https://serbot.ujaen.es/ecg/",
+      "status": "active",
+      "provider": "UJA",
+      "location": {
+        "continent": "Europe",
+        "country": "Spain",
+        "datacenter": "Serbot UJA",
+        "coordinates": {
+          "latitude": 38.0858790523265,
+          "longitude": -3.6451068623034018
+        }
+      },
+      "specs": {
+        "environment": "production",
+        "ip_address": "hidden"
+      }
+    }
+  ]
+}
